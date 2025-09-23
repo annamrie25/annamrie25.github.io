@@ -35,7 +35,7 @@ img {
     margin-left: 2em;
 }
 .shadow {
-    text-shadow: 2px 2px 2px rgb(128, 0, 0);
+    text-shadow: 2px 2px 2px rgb(246, 140, 172);
 }
 main {
     clear: left;
@@ -43,16 +43,16 @@ main {
 main h3 {
     margin: 1.5em 2em 1.5em;
     font-size: 105%;
-    border: 5px dashed blue;
+    border: 5px dashed rgb(246, 30, 152);
     border-radius:20px;
-    box-shadow: 3px 3px 4px 4px red;
+    box-shadow: 3px 3px 4px 4px rgb(246, 140, 172);
     padding: 1em;
 }
 main nav {
     margin: 1.5em 2em 1.5em;
-    border: 5px dashed blue;
+    border: 5px dashed rgb(246, 30, 152);
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
+    box-shadow: 3px 3px 4px 4px rgb(246, 140, 172);
     padding: .5em;
 }
 #list {
@@ -60,9 +60,9 @@ main nav {
 }
 div.contact {
     margin: 1.5em 2em 0 2em;
-    border: 5px dotted blue;
+    border: 5px dotted rgb(246, 30, 152);
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
+    box-shadow: 3px 3px 4px 4px rgb(246, 30, 152);
     padding: 1em;
 }
 footer p.copyright {
