@@ -8,8 +8,13 @@ body {
     background-color: white;
     margin: 15px auto;
     padding: 1px solid black;
+    border: 1px solid black;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
+    background-image: url();
+    background-position: right;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
 }
 a:focus, a:hover {
     font-style: italic;
