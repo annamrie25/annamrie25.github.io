@@ -63,4 +63,15 @@ aside {
     width: 20%;
     float: right;
     background-color: palevioletred
+} 
+footer {
+    clear: both;
+    border-top: 2px solid palevioletred; 
+}
+footer p.copyright {
+    text-align: center;
+    font-size: 80%
+}
+p.fixed {
+    width: auto;
 }
